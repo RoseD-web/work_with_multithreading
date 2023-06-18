@@ -1,4 +1,5 @@
 # work_with_mt
+![Simulator Screen Shot - iPhone 14 - 2023-06-18 at 18 14 50](https://github.com/RoseD-web/work_with_multithreading/assets/67821352/87088a96-3be4-42b3-acdb-43e2dc82c301)
 
 A new Flutter project.
 
